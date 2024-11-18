@@ -16,4 +16,4 @@ nota_prevista = modelo.predict([[horas]])
 
 print (f"Com {horas} de estudo, a nota prevista é {nota_prevista[0]:.2f}")
 
-input("Pressione Enter para sair....")
+input("Pressione Enter para sair...")
