@@ -1,0 +1,7 @@
+professor deseja cria uma ferramenta que ajuda os alunos a preverem (predição)
+suas notas com base no tempo de estudos
+
+relação linear entre o numero de horas estudades e nota find_replace 
+
+1 - scikt-learn - modelo de regreção linear
+2 - 
