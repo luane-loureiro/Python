@@ -1,3 +1,4 @@
-numros = [1,2,3,4,5]
+numeros = [1,2,3,4,5]
 
-for banana in numeros
+for num in numeros:
+    print(f"Este é o número: {num}")

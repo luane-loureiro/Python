@@ -1,7 +1,7 @@
 try:
-    idade = int(input("Digite sua idade: "))
-    if idade < 0:
-        raise ValueError("Idade não pode ser Negativa, a não ser que você viaje no tempo.")
-    print(f"Sua idade é {idade}")
-except ValueError:
-    print(f"Erro: {e}")
+    idade = int(input("Digite a sua idade: "))
+    if idade <0:
+        raise ValueError("Idade não pode ser negativa")
+    print(f"Sua idade é: {idade}")
+except ValueError as error:
+    print(f"Erro: {error}")
